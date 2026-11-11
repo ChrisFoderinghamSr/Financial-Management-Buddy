@@ -1,6 +1,6 @@
 # Financial Management Buddy
 
-**A paycheck-first money planner and learning center by Chris Foderingham Sr.**
+**A paycheck-first money planner and learning center by Chris Foderingham Sr. and Heather Foderingham**
 
 **Status:** **In Development as of 11/10/2026**
 
