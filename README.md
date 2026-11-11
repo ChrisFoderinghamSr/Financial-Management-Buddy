@@ -1,29 +1,31 @@
 # Financial Management Buddy
 
-**A paycheck-first money planner and learning center by Christian Foderingham.**
+**A paycheck-first money planner and learning center by Chris Foderingham Sr.**
 
-Intended home: **https://finman.chrisfoderingham.com**. This repository supplies the application and deployment configuration; it does not mean that the domain or live banking has been deployed.
+**Status:** **In Development as of 11/10/2026**
 
-Protect everyday needs and a cash cushion before choosing extra debt payments. Understand the tradeoffs, record your decisions, and retain control of your money.
+Intended home: **https://finman.chrisfoderingham.com**. This repository will supply the application and deployment configurations needed; which does not consitute that the domain or live banking API configurations have been deployed.
 
-## Run locally for free
+Protect everyday needs and a cash cushion before choosing extra debt payments. Understanding the tradeoffs, recording your decisions, and retaining complete control of your money.
+
+## Run locally for free (Main Goal)
 
 Install Node.js 22 or newer, open this folder, then run:
 
-```powershell
+```inside powershell:
 npm start
 ```
 
 Open **http://127.0.0.1:4186**. No package installation, account, cloud, or bank credentials are needed for the local app. The initial workspace contains explicitly fictional sample data. Open **Settings → Start empty personal workspace** before entering your own records.
 
-```powershell
+``` inside powershell:
 npm run build
 npm test
 ```
 
 The build produces `dist/` for AWS Amplify static hosting. Backend dependencies are separate from the free local planner.
 
-## Included experience
+## Learning the Included experiences
 
 | Section | What it does |
 | --- | --- |
